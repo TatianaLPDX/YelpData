@@ -1,9 +1,9 @@
 # Predicting Consumer Appetites: can Yelp determine a model for success? 
 
-Project Objective:
+## Project Objective:
 The main objective of this project is to build a data model that allows its users to predict business future success (success is defined by 1. if this business has any reviews in 6, 9, and 12 months) and if the number of reviews is increasing). The model will utilize specific criteria (such as rating score, number of ratings, and geo-location of business) and combinations of these criteria in order to create the most accurate predictions.
 
-Project Summary: 
+## Project Summary: 
 In today’s world success of every business is decided on people’s reaction. 
 Data Analytics helps businesses identify potential opportunities to streamline operations or maximize their profits. It helps identify potential problems, eliminating the process of waiting for them to occur and then take action on the same. Hence we decided to choose a topic that would help businesses decide on what factors should be considered and how people’s reaction can boost or kill their business.  
 
@@ -13,10 +13,11 @@ The Yelp dataset contains various data pointers such as star ratings, text revie
  - Data visualisation tool: Tableau
  - Data analytics: Python/Pandas
 
-Tasks: 
+## Tasks: 
+
 Please find the linked spreadsheet available: https://docs.google.com/spreadsheets/d/1fPX_p8jffdtw3mLyZxuM26aUm1Q2cLne38xTpZz8zlM/edit?usp=sharing
 
-Team Roles:
+## Team Roles:
 
 Coordinator: This team member is responsible for managing the timeline for project deliverables and ensuring that we are all completing our tasks with an eye toward project completion. This role includes being the lead for reviewing the work product of the project. This will be led by Shruti
  

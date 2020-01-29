@@ -19,13 +19,13 @@ Please find the linked spreadsheet available: https://docs.google.com/spreadshee
 
 ## Team Roles:
 
-Coordinator: This team member is responsible for managing the timeline for project deliverables and ensuring that we are all completing our tasks with an eye toward project completion. This role includes being the lead for reviewing the work product of the project. This will be led by Shruti
+Coordinator: This team member is responsible for managing the timeline for project deliverables and ensuring that we are all completing our tasks with an eye toward project completion. This role includes being the lead for reviewing the work product of the project.
  
-Data manager: This team member will take the lead on downloading the dataset from Kaggle and importing it to our analytics tools. This includes creating a framework for the team members to manipulate and review the data. This will be led by Tatiana. 
+Data manager: This team member will take the lead on downloading the dataset from Kaggle and importing it to our analytics tools. This includes creating a framework for the team members to manipulate and review the data. 
 
-Database manager: This team member will set up and manage the database for the project. This will be led by David
+Database manager: This team member will set up and manage the database for the project.
 
-Visualisation manager: This team member will take the lead on the initial setup of visualization tools in Tableau and will work with the other team members to create, develop, and finalize the project deliverables for presentation. This will be led by David
+Visualisation manager: This team member will take the lead on the initial setup of visualization tools in Tableau and will work with the other team members to create, develop, and finalize the project deliverables for presentation.
 
 # DataSet Link
 https://www.kaggle.com/yelp-dataset/yelp-dataset

@@ -15,7 +15,7 @@ The Yelp dataset contains various data pointers such as star ratings, text revie
 
 ## Tasks: 
 
-Please find the list of task on the attached spreadsheet [here] (https://docs.google.com/spreadsheets/d/1fPX_p8jffdtw3mLyZxuM26aUm1Q2cLne38xTpZz8zlM/edit#gid=0).
+Please find the list of task on the attached spreadsheet [here](https://docs.google.com/spreadsheets/d/1fPX_p8jffdtw3mLyZxuM26aUm1Q2cLne38xTpZz8zlM/edit#gid=0).
 
 ## Team Roles:
 

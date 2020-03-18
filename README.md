@@ -29,3 +29,7 @@ Visualisation manager: This team member will take the lead on the initial setup 
 
 # DataSet Link
 https://www.kaggle.com/yelp-dataset/yelp-dataset
+
+# Presentation Link
+https://docs.google.com/presentation/d/1iuG283bfnI0Mis1uG_cz_peujlEC5j_X3yNz4nqcQac/edit#slide=id.g62077077c6_0_188
+
